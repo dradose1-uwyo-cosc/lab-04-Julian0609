@@ -1,12 +1,6 @@
-# [Name]
-## [Assignment #]
-## [Submission date: MM/DD/YY]
-## Worked with/sources 
-* example
-* example
-* example
-* example
+# [julian huerta]
+## [4#]
+## [Submission date: 10/3/24]
+## ben Wilkin 
 ## Project Quirks/ Things that don't work
-* example
-* example
-* example
+Everything works
